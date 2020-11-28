@@ -1,6 +1,6 @@
 {
   "name": "is-git-ref-name-valid",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check that a git reference name is well formed",
   "license": "MIT",
   "author": "Vincent Weevers",
